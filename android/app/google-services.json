@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013308186482",
+    "project_id": "devsnortequiz",
+    "storage_bucket": "devsnortequiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013308186482:android:eb7a4018df027e987b47eb",
+        "android_client_info": {
+          "package_name": "br.com.devsnorte.devs_norte_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8xGuQHschvIFX5ybqobfMmWCy8BZ1a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
