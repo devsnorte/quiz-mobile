@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "felipecasseb",
+      "name": "Felipe Dias Casseb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20211594?v=4",
+      "profile": "https://www.linkedin.com/in/felipe-casseb-5522b538",
+      "contributions": [
+        "code",
+        "ideas",
+        "mentoring",
+        "talk"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "quiz-mobile",
+  "projectOwner": "devsnorte"
+}
