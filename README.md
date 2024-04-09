@@ -91,7 +91,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/felipe-casseb-5522b538"><img src="https://avatars.githubusercontent.com/u/20211594?v=4?s=100" width="100px;" alt="Felipe Dias Casseb"/><br /><sub><b>Felipe Dias Casseb</b></sub></a><br /><a href="https://github.com/devsnorte/quiz-mobile/commits?author=felipecasseb" title="Code">💻</a> <a href="#ideas-felipecasseb" title="Ideas, Planning, & Feedback">🤔</a> <a href="#mentoring-felipecasseb" title="Mentoring">🧑‍🏫</a> <a href="#talk-felipecasseb" title="Talks">📢</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/felipe-casseb-5522b538"><img src="https://avatars.githubusercontent.com/u/20211594?v=4?s=100" width="100px;" alt="Felipe Dias Casseb"/><br /><sub><b>Felipe Dias Casseb</b></sub></a><br /><a href="https://github.com/devsnorte/quiz-mobile/commits?author=felipecasseb" title="Code">💻</a> <a href="#ideas-felipecasseb" title="Ideas, Planning, & Feedback">🤔</a> <a href="#mentoring-felipecasseb" title="Mentoring">🧑‍🏫</a> <a href="#talk-felipecasseb" title="Talks">📢</a> <a href="#eventOrganizing-felipecasseb" title="Event Organizing">📋</a></td>
     </tr>
   </tbody>
 </table>
