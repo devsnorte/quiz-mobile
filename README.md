@@ -54,33 +54,11 @@ flutter pub get
 cd flutter run
 ```
 
-# Contribuidores
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/felipe-casseb-5522b538/">
-        <img src="https://avatars.githubusercontent.com/felipecasseb" width="100px;" alt="Felipe Casseb Profile Picture"/><br>
-        <sub>
-          <b>Felipe Casseb</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/suamirochadev/">
-        <img src="https://avatars.githubusercontent.com/suamirochadev" width="100px;" alt="Suami Rocha Profile Picture"/><br>
-        <sub>
-          <b>Suami Rocha</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 # Agradecimento
 Obrigada a comunidade [Devs Norte](https://devsnorte.com/) por nos ceder um espaço no Discord para realizar as reuniões.
 
 Obrigada a cada pessoa que tirou um tempinho para passar por lá, tirar dúvidas, trocar umas ideias e contribuiu de alguma forma.
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
